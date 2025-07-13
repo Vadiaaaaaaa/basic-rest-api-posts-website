@@ -1,0 +1,8 @@
+.post {
+    background-color: bisque;
+    border-radius: 15px;
+    padding: 10px;
+    margin-bottom: 10px;
+    font-family: sans-serif;
+    box-shadow: 0 4px 10px rgba(2,0,0,0.7);
+}
