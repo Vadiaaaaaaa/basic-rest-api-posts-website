@@ -2,7 +2,7 @@
 
 This is a simple CRUD (Create, Read, Update, Delete) app built with **Node.js**, **Express**, and **EJS** templating. It's meant for practicing the fundamentals of RESTful routing and middleware.
 
-## Features
+# Features
 
 - View all posts
 - Add a new post
@@ -10,7 +10,7 @@ This is a simple CRUD (Create, Read, Update, Delete) app built with **Node.js**,
 - Delete a post
 - View a single post in detail
 
-## Tech Stack
+# Tech Stack
 
 - Node.js
 - Express.js
@@ -18,5 +18,5 @@ This is a simple CRUD (Create, Read, Update, Delete) app built with **Node.js**,
 - UUID
 - Method-Override
 
-## Project Structure
+# Project Structure
 
