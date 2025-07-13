@@ -18,5 +18,3 @@ This is a simple CRUD (Create, Read, Update, Delete) app built with **Node.js**,
 - UUID
 - Method-Override
 
-# Project Structure
-
